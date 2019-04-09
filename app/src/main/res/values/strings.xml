@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lumut ID</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_user">User Id</string>
+    <string name="txt_id">Id</string>
+</resources>
